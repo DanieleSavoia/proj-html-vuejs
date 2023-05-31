@@ -35,7 +35,7 @@ export default {
                     <span>2033</span>
                 </div>
                 <div>
-                    VOLUNTERS WORLDWIDE
+                    Volunters worldwide
                 </div>
             </div>
             <div>

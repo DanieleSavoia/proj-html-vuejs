@@ -10,7 +10,7 @@ export default {
 }
 </script>
 <template>
-    <div class="container-fluid img">
+    <div class="container-fluid img-1">
         <div class="d-flex flex-column align-items-center">
             <h2 class="mt-5 text-light">OUR VALUES</h2>
             <hr class="hrs text-warning">

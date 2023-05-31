@@ -1,4 +1,5 @@
 <script>
+
 import { store } from '../store';
 export default {
     data(){
@@ -48,7 +49,7 @@ export default {
         <div class="container-one d-flex  flex-column align-items-center">
             <h1 class="text-light">make the difference</h1>
             <p class="text-light">As long as poverty, injustice & inequity persist, none of us can truly rest</p>
-            <div class="d-flex">
+            <div class="buttons-space d-flex">
                 <button type="button" class="btn btn-outline-light">Our Mission</button>
                 <button type="button" class="btn btn-outline-warning">Donate now</button>
             </div>
@@ -60,6 +61,12 @@ export default {
 .img {
     background-image: url(../img/HelloIMG1669149393797.jpeg);
     background-size: cover;
+    
+}
+.img-1 {
+    background-image: url(../img/HelloIMG1669149393797.jpeg);
+    background-size: cover;
+    height: 600px;
     
 }
 .container-one {

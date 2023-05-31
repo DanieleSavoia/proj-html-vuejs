@@ -30,21 +30,20 @@ export default {
         <span class="text-light">
             VIEW ALL OUR CAUSES
         </span>
-
     </div>
 </template>
 
 <style>
 .img-adj{
-    width: 300px;
-    gap: 10px;
+    width: 250px;
+    gap:5px;
     display: flex;
     justify-content: center;
     flex-direction: row;
 
 }
 .container {
-    width: 80%;
+    width: 100%;
     flex-wrap: wrap;
     justify-content: space-between;
 }
